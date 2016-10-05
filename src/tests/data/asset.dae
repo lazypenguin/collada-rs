@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2008/03/COLLADASchema" version="1.5.0"> 
+	<asset>
+		<contributor>John Smith</contributor>
+		<coverage>
+			<geographic_location>
+				<latitude>30.2669444</latitude>
+				<longitude>-97.7427778</latitude>
+				<altitude mode="absolute">1</altitude>
+			</geographic_location>
+		</coverage>
+	</asset>
+</COLLADA>

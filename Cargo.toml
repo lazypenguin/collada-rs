@@ -1,0 +1,9 @@
+[package]
+name = "collada"
+version = "0.1.0"
+authors = ["Ralph Minderhoud <ralphminderhoud@gmail.com>"]
+
+[dependencies]
+# Todo: Switch to xmltree 0.3.3 when it lands
+# xmltree = "0.3.3"
+xmltree = { git = "https://github.com/lazypenguin/xmltree-rs.git", rev = "93563a7" }
